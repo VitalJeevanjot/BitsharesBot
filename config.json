@@ -1,0 +1,5 @@
+{
+  "token": "...",
+  "prefix": "!",
+  "uridb": "mongodb+srv://<user>:<password>@<cluster-host>/<database>"
+}
