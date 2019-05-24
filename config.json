@@ -1,0 +1,5 @@
+{
+  "token": "...",
+  "prefix": "!",
+  "uridb": "mongodb+srv://admin:123456abc@cluster0-cuba7.azure.mongodb.net/test?retryWrites=true"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bitsharesbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bitsharesjs": "^1.8.3",
+    "btsdex": "^0.7.1",
+    "cors": "^2.8.5",
+    "discord.js": "^11.5.0",
+    "enmap": "^4.8.7",
+    "express": "^4.17.0",
+    "mongodb": "^3.2.4"
+  }
+}
